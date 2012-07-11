@@ -1,0 +1,40 @@
+=======
+%project%
+=======
+
+<long description>
+
+License
+=======
+
+%project% is free software and licensed under the GNU GPLv3 or later. You
+are welcome to change and redistribute it under certain conditions. For more
+information see the LICENSE file or visit http://www.gnu.org/licenses/gpl-3.0.html
+
+
+Requirements
+============
+
+   - python > <py_version>
+
+Installation
+============
+
+Over PyPi
+---------
+
+	> pip install %project%
+
+
+Installing from source
+----------------------
+
+	$ python setup.py install # may need to be root
+
+
+Usage
+=====
+
+<usage examples>
+
+Have fun!
